@@ -3,7 +3,7 @@
 
 <table>
   
-**In this project We will use Spark with Python to do a great stuff. Here we will find the minimum temperature for each station given in 1800.csv using dataframe.<br>
+**In this project We will use Spark with Python to do a great stuff. Here we will find the minimum temperature for each station given in 1800.csv using dataframe.<br></br>
 We will add explicit schema as we don't have the header benefits here to make it a structure data in dataframe and so we can execute SQL query very easily**.<br></br>
 
 **Before jumping to the code lets understand Spark first**...<br></br>
